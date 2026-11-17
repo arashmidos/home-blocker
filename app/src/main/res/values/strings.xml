@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Blocker</string>
+    <string name="service_description">Puts an invisible box over the Home button. Taps on it do nothing. Hold it to go Home. The service reads no screen content.</string>
+</resources>
